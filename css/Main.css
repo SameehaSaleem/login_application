@@ -1,0 +1,30 @@
+.FooterText 
+{
+    text-align:center;
+    font-family: Papyrus, fantasy;
+    color:#606060;
+}
+.errorMessage {
+    text-align:center;
+    font-family: Papyrus, fantasy;
+    color:red;
+}
+body 
+{
+    
+	background-image:url('../images/backgrounds/background_main.jpg');
+    	margin: 0 0 100px; /* bottom = footer height */
+	color: 	#000000
+        
+}
+
+html 
+{
+	position: relative;
+    	min-height: 100%;
+}
+
+.panel panel-default{
+    position: absolute;
+    color: 	#ffffff
+}
